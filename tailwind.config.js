@@ -12,6 +12,10 @@ module.exports = {
       fontFamily: {
         sans: ['Josefin Sans', 'sans-serif'],
         title: ['Playfair Display SC', 'serif'],
+      },
+      backgroundImage: {
+        mobile: "url('./assets/bg-mobile.png')",
+        desktop: "url('./assets/bg-desktop.png')"
       }
     },
   },
